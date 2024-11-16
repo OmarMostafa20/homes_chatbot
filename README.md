@@ -1,12 +1,12 @@
-# Beltone Real Estate Chatbot
+# Homes& Real Estate Chatbot
 
 ## Overview
 
-The Beltone Real Estate Chatbot is an intelligent assistant designed to help users find their dream homes or investment properties. Built with Flask and integrated with OpenAI's language models, the chatbot engages users in a conversational flow to gather preferences and provide personalized property recommendations.
+The Homes& Real Estate Chatbot is an intelligent assistant designed to help users find their dream homes or investment properties. Built with Flask and integrated with OpenAI's language models, the chatbot engages users in a conversational flow to gather preferences and provide personalized property recommendations.
 
 ## Getting Started
 
-To run the Beltone project locally, follow the steps below:
+To run the chatbot project locally, follow the steps below:
 
 ## Prerequisites
 
